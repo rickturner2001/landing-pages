@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+#hero {
+  background-image: url("../src/assets/hero/hero-bg.jpg");
+  /* background-size: 100% 100%; */
+  
+}
+
+@layer components {
+  .btn-primary {
+    @apply rounded-2xl bg-blue-500 py-3 px-6 font-bold text-white shadow-md shadow-blue-500/20;
+  }
+}
