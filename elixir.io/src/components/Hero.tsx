@@ -35,7 +35,7 @@ const Hero = () => {
       <div className="absolute top-0 left-0 z-[10] w-[40%] h-[60%] rounded-full white__gradient " />
       {/* <div className="white__gradient w-1/4 h-1/4 absolute z[1] right-0 top-0"></div> */}
 
-      <div className="absolute z-[20]  w-[40%] h-[50%] right-20 bottom-40 blue__gradient" />
+      {/* <div className="absolute z-[20]  w-[40%] h-[50%] right-20 bottom-40 blue__gradient" /> */}
 
       <div className="md:hidden">
         <GetStarted className=" mx-auto" />

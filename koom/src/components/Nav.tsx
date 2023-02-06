@@ -2,7 +2,7 @@ import { navigation } from "../constants";
 
 export default function Nav() {
   return (
-    <nav className="flex items-center justify-between bg-blue-50 px-10 py-8">
+    <nav className="flex items-center justify-between bg-blue-50 px-10 py-4">
       {/* Left Side (Logo) */}
       <div>
         <h1 className="text-2xl font-extrabold text-blue-500">

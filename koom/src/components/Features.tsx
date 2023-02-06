@@ -2,7 +2,7 @@ import { featuresSection } from "../constants";
 
 export default function Features() {
   return (
-    <section className="w-full bg-white py-32">
+    <section className="w-full bg-white pb-24">
       <div className="mx-auto flex max-w-7xl flex-col justify-center space-y-12 md:flex-row md:space-y-0 md:space-x-12">
         {featuresSection.map((feature) => {
           return (

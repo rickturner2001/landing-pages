@@ -15,7 +15,7 @@ export const navigation = {
 };
 
 export const heroSection = {
-  title: "Efficient & effective way to communicate.",
+  title: "An Efficient & effective way to communicate.",
   subtitle:
     "With no app or installs required, and the same meeting link every time, Koom gives you the freedom to work from anywhere",
 
